@@ -1,8 +1,6 @@
 cc_defaults {
     name: "system-extras-cflags-defaults",
     cflags: [
-        "-Wall",
-        "-Werror",
         "-Wno-unused-parameter",
         "-Wno-unused-result",
         "-Wno-unused-variable",
